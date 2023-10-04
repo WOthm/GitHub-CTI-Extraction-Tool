@@ -16,7 +16,8 @@ Run the script in your terminal or command prompt. It will prompt you to choose 
 Best matches: Retrieves the best-matching CTI repositories.     
 Better ranked: Retrieves the better-ranked CTI repositories based on stars.  
 Most forked: Retrieves the most-forked CTI repositories.  
-Recent Update: Retrieves the CTI repositories with the most recent updates.  
+Recent Update: Retrieves the CTI repositories with the most recent updates.
+
 You can also provide optional keywords to narrow down your search by specifying them when prompted.
 
 ```
