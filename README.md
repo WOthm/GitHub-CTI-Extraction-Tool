@@ -4,7 +4,7 @@ The GitHub CTI Extraction Tool is a Python script that allows you to search for 
 Prerequisites
 Before using this tool, make sure you have the following:
 
-Python installed on your system.
+Python installed on your system.  
 A GitHub token with appropriate permissions. Replace "YOUR_GITHUB_TOKEN" in the script with your actual GitHub token.  
 
 How to Use  
