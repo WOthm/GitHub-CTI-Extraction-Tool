@@ -26,5 +26,5 @@ You can also provide optional keywords to narrow down your search by specifying 
 python github_cti_extraction.py
 ```
 
-Contributions
+Contributions  
 Contributions to this project are welcome. Feel free to open issues or submit pull requests to enhance the functionality or fix any issues.
