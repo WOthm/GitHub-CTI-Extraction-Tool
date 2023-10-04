@@ -13,22 +13,15 @@ Replace "YOUR_GITHUB_TOKEN" with your GitHub token.
 Usage
 Run the script in your terminal or command prompt. It will prompt you to choose one of the following search criteria:
 
-Best matches: Retrieves the best-matching CTI repositories.
-Better ranked: Retrieves the better-ranked CTI repositories based on stars.
-Most forked: Retrieves the most-forked CTI repositories.
-Recent Update: Retrieves the CTI repositories with the most recent updates.
+Best matches: Retrieves the best-matching CTI repositories.     
+Better ranked: Retrieves the better-ranked CTI repositories based on stars.  
+Most forked: Retrieves the most-forked CTI repositories.  
+Recent Update: Retrieves the CTI repositories with the most recent updates.  
 You can also provide optional keywords to narrow down your search by specifying them when prompted.
 
-Example
-Here's how you can run the script:
-
-bash
-Copy code
+```
 python github_cti_extraction.py
-Follow the prompts to choose your search criteria and provide optional keywords.
-
-Output
-The script will make an API request to GitHub and display information about the matching repositories, including the repository name, description, and the date of the last update. The information will be presented in a tabular format.
+```
 
 Contributions
 Contributions to this project are welcome. Feel free to open issues or submit pull requests to enhance the functionality or fix any issues.
