@@ -30,13 +30,5 @@ Follow the prompts to choose your search criteria and provide optional keywords.
 Output
 The script will make an API request to GitHub and display information about the matching repositories, including the repository name, description, and the date of the last update. The information will be presented in a tabular format.
 
-Disclaimer
-This tool is intended for educational and research purposes. Make sure to respect GitHub's usage policies and guidelines when using this tool. Do not misuse it for malicious purposes.
-
 Contributions
 Contributions to this project are welcome. Feel free to open issues or submit pull requests to enhance the functionality or fix any issues.
-
-License
-This script is provided under the MIT License. You can find more details in the LICENSE file.
-
-Feel free to customize this README to include more details or instructions specific to your project.
